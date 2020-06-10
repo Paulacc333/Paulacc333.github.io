@@ -41,7 +41,7 @@ Pagina proncipal  con botones que llevan a otras paginas segundarias, en la pagi
 Imagenes subidas al drive  de go ugr, enlace:
 https://drive.google.com/drive/u/3/folders/1bhxsh_cbxu05EH5bZbSSFKm4TDGXdwkU
 
-Metodología de desarrollo de productos multimedia
+Metodología de desarrollo de productos multimedia:
 Mi experiencia en la realizacion de este trabajo a sido contante y buena,  tuve algunas dificultades  debido a la poca practica en años ateriores, aun asi he conseguido superarme y realizar todos los apartados del trabajo.
 
 Etapa 1: Ideación de proyecto
